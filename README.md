@@ -1,3 +1,2 @@
-# practica-git
-# practica-git 
-## Descripcion 
+# practica-git (version rama tarea-conflicto) 
+
