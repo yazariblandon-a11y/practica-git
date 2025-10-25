@@ -1,2 +1,2 @@
-# practica-git (version rama tarea-conflicto) 
+# practica-git (version main)
 
